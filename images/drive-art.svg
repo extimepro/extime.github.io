@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4039px" height="3426px" viewBox="0 0 4039 3426" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="95.648921%" y1="29.6679487%" x2="0%" y2="73.0014883%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#656565" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.648921%" y1="29.8432504%" x2="0%" y2="72.8031709%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#656565" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.648921%" y1="29.1201768%" x2="0%" y2="73.6211783%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#656565" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EDEDED" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#EDEDED" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(20.000000, 20.000000)">
+            <g id="dropbox" transform="translate(2025.000000, 1239.000000)" fill="#E4E4E4" fill-rule="nonzero">
+                <polygon id="Path" points="624 120.69427 440.427 0 312 107.954752 497.094 223"></polygon>
+                <polygon id="Path" points="183.573 0 0 120.655311 126.945 223 312 107.954752"></polygon>
+                <polygon id="Path" points="312 338.064105 183.573 446 0 325.326812 126.906 223 312 338.064105 497.055 223 624 325.326812 440.427 446"></polygon>
+                <path d="M450.709,450.851562 C447.472,453 443.728,454.054688 440.023,454.054688 C435.538,454.054688 431.092,452.492188 427.465,449.484375 L313,353 L198.535,449.484375 C191.944,455.03125 182.467,455.578125 175.252,450.851562 L118,413.117188 L118,470.8125 L313.39,588 L508,470.8125 L508,413.078125 L450.709,450.851562 Z" id="Path"></path>
+            </g>
+            <g id="google-drive" transform="translate(994.000000, 1071.000000)" fill-rule="nonzero">
+                <polygon id="Path" fill="#FFC107" points="704.032999 660 1056 660 704.032999 0 352 0"></polygon>
+                <polygon id="Path" fill="#2196F3" points="326.81377 660 176 924 890.995875 924 1056 660"></polygon>
+                <polygon id="Path" fill="#4CAF50" points="352.026555 0 0 615.978 176.046282 924 522 318.648"></polygon>
+            </g>
+            <path d="M2025,1071.13337 L3492,77" id="Path-2" stroke="url(#linearGradient-1)" stroke-width="40" opacity="0.0998883929" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M2767,831.133365 L3999,0" id="Path-2" stroke="url(#linearGradient-2)" stroke-width="40" opacity="0.0998883929" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M1797,2863.13337 L3594,1628" id="Path-2" stroke="url(#linearGradient-3)" stroke-width="40" opacity="0.0998883929" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M95,1533.13337 L1892,298" id="Path-2" stroke="url(#linearGradient-3)" stroke-width="40" opacity="0.0998883929" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M0,3385.13337 L1797,2150" id="Path-2" stroke="url(#linearGradient-3)" stroke-width="40" opacity="0.0998883929" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" stroke="url(#linearGradient-4)" stroke-width="81" opacity="0.709286644" transform="translate(585.000000, 1134.000000) rotate(19.000000) translate(-585.000000, -1134.000000) " cx="585" cy="1134" rx="184.5" ry="268.5"></ellipse>
+            <ellipse id="Oval" stroke="url(#linearGradient-5)" stroke-width="41" opacity="0.709286644" transform="translate(3141.000000, 2333.000000) rotate(19.000000) translate(-3141.000000, -2333.000000) " cx="3141" cy="2333" rx="92.5" ry="134.5"></ellipse>
+        </g>
+    </g>
+</svg>

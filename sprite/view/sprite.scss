@@ -1,7 +1,9 @@
 %svg-common {
 	background: url("svg/sprite.view.svg") no-repeat;
 }
-
+%svg-common1 {
+	background: url("svg/x.svg") no-repeat;
+}
 .svg-facebook {
 	@extend %svg-common;
 	background-position: 100% 0;
@@ -42,12 +44,12 @@
 	height: 32px;
 }
 
-.svg-twitter {
-	@extend %svg-common;
+.svg-x{
+	@extend %svg-common1;
 	background-position: 0 100%;
 }
 
-.svg-twitter-dims {
+.svg-x-dims {
 	width: 32px;
 	height: 32px;
 }
